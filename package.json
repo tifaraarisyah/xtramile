@@ -1,0 +1,25 @@
+{
+  "name": "xtramile-ui-test",
+  "version": "1.0.0",
+  "description": "UI Automation using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tifaraarisyah/xtramile.git"
+  },
+  "author": "tifara arisyah",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "latest",
+    "@bahmutov/cypress-esbuild-preprocessor": "latest",
+    "cypress": "latest",
+    "typescript": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/tifaraarisyah/xtramile/issues"
+  },
+  "homepage": "https://github.com/tifaraarisyah/xtramile#readme"
+}
